@@ -1,0 +1,91 @@
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.exe
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.pdb
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.xml
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\MainWindow.baml
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\MainWindow.g.vb
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Application.g.vb
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre_MarkupCompile.cache
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.g.resources
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Resources.resources
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.exe
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.xml
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.pdb
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Clientes.baml
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Clientes.g.vb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.exe
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.xml
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.pdb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.exe
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.pdb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.xml
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\MainWindow.baml
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Clientes.baml
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\MainWindow.g.vb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Clientes.g.vb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Application.g.vb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre_MarkupCompile.cache
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.g.resources
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Resources.resources
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.vbproj.GenerateResource.Cache
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Application.baml
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\WPFToolkit.dll
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\WPFToolkit.pdb
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Clientes.resources
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\WPFToolkit.pdb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.vbprojResolveAssemblyReference.cache
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Application.baml
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Clientes.resources
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.exe.config
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.exe.config
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Peliculas.baml
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Peliculas.g.vb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\WPFToolkit.dll
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Peliculas.baml
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Peliculas.g.vb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Peliculas_A.resources
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Peliculas_A.resources
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Alquilar.resources
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Alquilar.resources
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Calcular_Alquiler.baml
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Calcular_Alquiler.g.vb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Calcular_Alquiler.baml
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Calcular_Alquiler.g.vb
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Alquileres.resources
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Devolver.resources
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Alquileres.resources
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Devolver.resources
+C:\Users\2ºDAI\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Informes.resources
+H:\Dropbox\Modulo 2 DAM\Interfaces\2 Trimestre\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Informes.resources
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.exe.config
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.exe
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.xml
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.pdb
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.exe
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.pdb
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\Videoclub_Trabajo_2_Trimestre.xml
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\WPFToolkit.dll
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\bin\Debug\WPFToolkit.pdb
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Calcular_Alquiler.baml
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\MainWindow.baml
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Clientes.baml
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Peliculas.baml
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Application.baml
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Calcular_Alquiler.g.vb
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Clientes.g.vb
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Nuevo_Peliculas.g.vb
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Application.g.vb
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre_MarkupCompile.cache
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.g.resources
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Alquilar.resources
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Alquileres.resources
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Clientes.resources
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Devolver.resources
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Informes.resources
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Resources.resources
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.Peliculas_A.resources
+C:\Users\Ricardo\Desktop\Videoclub_Trabajo_2_Trimestre\Videoclub_Trabajo_2_Trimestre\obj\x86\Debug\Videoclub_Trabajo_2_Trimestre.vbproj.GenerateResource.Cache
